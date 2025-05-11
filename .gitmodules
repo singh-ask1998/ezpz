@@ -16,3 +16,6 @@
 [submodule "ezstore/product/product-common"]
 	path = ezstore/product/product-common
 	url = https://github.com/singh-ask1998/product-common.git
+[submodule "ezstore/ezstore-parent/ezstore-parent"]
+	path = ezstore/ezstore-parent/ezstore-parent
+	url = https://github.com/singh-ask1998/ezstore-parent.git
