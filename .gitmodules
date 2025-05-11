@@ -22,3 +22,6 @@
 [submodule "ezstore/eureka/eureka-server"]
 	path = ezstore/eureka/eureka-server
 	url = https://github.com/singh-ask1998/eureka-server.git
+[submodule "ezstore/gateway/gateway-server"]
+	path = ezstore/gateway/gateway-server
+	url = https://github.com/singh-ask1998/gateway-server.git
