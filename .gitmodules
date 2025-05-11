@@ -25,3 +25,6 @@
 [submodule "ezstore/gateway/gateway-server"]
 	path = ezstore/gateway/gateway-server
 	url = https://github.com/singh-ask1998/gateway-server.git
+[submodule "ezstore/inventory/ezstore-inventory"]
+	path = ezstore/inventory/ezstore-inventory
+	url = https://github.com/singh-ask1998/ezstore-inventory.git
