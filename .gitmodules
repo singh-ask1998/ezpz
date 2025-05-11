@@ -1,0 +1,6 @@
+[submodule "ezstore/product/product-parent"]
+	path = ezstore/product/product-parent
+	url = https://github.com/singh-ask1998/product-parent.git
+[submodule "ezstore/product/product-operation"]
+	path = ezstore/product/product-operation
+	url = https://github.com/singh-ask1998/product-operation.git
