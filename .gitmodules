@@ -7,3 +7,12 @@
 [submodule "ezstore/ezstore-ui/ezstore-web"]
 	path = ezstore/ezstore-ui/ezstore-web
 	url = https://github.com/singh-ask1998/ezstore-web.git
+[submodule "ezstore/product/product-category"]
+	path = ezstore/product/product-category
+	url = https://github.com/singh-ask1998/product-category.git
+[submodule "ezstore/product/product-app"]
+	path = ezstore/product/product-app
+	url = https://github.com/singh-ask1998/product-app.git
+[submodule "ezstore/product/product-common"]
+	path = ezstore/product/product-common
+	url = https://github.com/singh-ask1998/product-common.git
