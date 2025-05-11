@@ -19,3 +19,6 @@
 [submodule "ezstore/ezstore-parent/ezstore-parent"]
 	path = ezstore/ezstore-parent/ezstore-parent
 	url = https://github.com/singh-ask1998/ezstore-parent.git
+[submodule "ezstore/eureka/eureka-server"]
+	path = ezstore/eureka/eureka-server
+	url = https://github.com/singh-ask1998/eureka-server.git
